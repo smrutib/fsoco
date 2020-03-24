@@ -49,6 +49,7 @@ Open-Source Dataset for Objects that need to be recognized during the dynamic di
 | Lions Racing Braunschweig  |  Color Images |  Darknet YOLO Format | 644 | 9196 |
 | MMR Driverless | Color Images | Darknet YOLO Format | 600 | 8498 |
 | UPM Racing  |  Color Images |  Darknet YOLO Format | 633 | 6014 |
+| DJS Racing  |  Color Images |  Darknet YOLO Format | 600 | 4233 |
 |...|...|...|...|...|
 
 ### Annotation Types
