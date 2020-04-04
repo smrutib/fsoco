@@ -1,1 +1,7 @@
-Very small or heavily occluded cones have been left out in the labeling process
+Cones left out in the labelling process:
+very small cones
+cones whose color is not easily distinguishable
+cones heavily obstructed by the car 
+highly overlapping cones
+cones that do not lie majorly in the frame
+
